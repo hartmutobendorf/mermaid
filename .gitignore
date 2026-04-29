@@ -74,3 +74,5 @@ CLAUDE.mermaid.md
 .envrc
 .logs
 .workshop.lock
+node_modules
+.pnpm-store
