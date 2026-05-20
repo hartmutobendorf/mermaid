@@ -72,3 +72,5 @@ packages/parser/CLAUDE.md
 AGENTS.mermaid.md
 CLAUDE.mermaid.md
 .envrc
+.logs
+.workshop.lock
